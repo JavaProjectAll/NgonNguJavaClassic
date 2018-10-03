@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e961ba-9522-46f6-9b70-9eb2879f0e40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai7_Debug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai8_ThucHanhToanTu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai9_UngDungTienTe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thuchanh1_TinhChiSoCanNang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thuchanh2_TinhSoNgayTrongThang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai7_Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai7_Debug.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,70 +15,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-1" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="bai2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai3/bai2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="47" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bai3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai3/bai3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bai4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai3/bai4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bai4_PhuongTrinhBac2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai4_PhuongTrinhBac2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bai5_KiemTraNamNhuan.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai5_KiemTraNamNhuan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bai6_PhuongTrinhBac1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai6_PhuongTrinhBac1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SystemTime.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -86,26 +32,26 @@
       <file leaf-file-name="bai7_Debug.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bai7_Debug.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="110">
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bai8_ThucHanhToanTu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai8_ThucHanhToanTu.java">
+      <file leaf-file-name="thuchanh1_TinhChiSoCanNang.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thuchanh1_TinhChiSoCanNang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bai9_UngDungTienTe.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bai9_UngDungTienTe.java">
+      <file leaf-file-name="thuchanh2_TinhSoNgayTrongThang.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thuchanh2_TinhSoNgayTrongThang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+            <state relative-caret-position="508">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -143,10 +89,13 @@
         <option value="$PROJECT_DIR$/src/bai3/bai4.java" />
         <option value="$PROJECT_DIR$/src/bai4_PhuongTrinhBac2.java" />
         <option value="$PROJECT_DIR$/src/bai5_KiemTraNamNhuan.java" />
-        <option value="$PROJECT_DIR$/src/bai6_PhuongTrinhBac1.java" />
         <option value="$PROJECT_DIR$/src/SystemTime.java" />
         <option value="$PROJECT_DIR$/src/bai8_ThucHanhToanTu.java" />
         <option value="$PROJECT_DIR$/src/bai9_UngDungTienTe.java" />
+        <option value="$PROJECT_DIR$/src/bai6_PhuongTrinhBac1.java" />
+        <option value="$PROJECT_DIR$/src/bai7_Debug.java" />
+        <option value="$PROJECT_DIR$/src/thuchanh1_TinhChiSoCanNang.java" />
+        <option value="$PROJECT_DIR$/src/thuchanh2_TinhSoNgayTrongThang.java" />
       </list>
     </option>
   </component>
@@ -218,22 +167,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.bai9_UngDungTienTe">
+  <component name="RunManager" selected="Application.thuchanh2_TinhSoNgayTrongThang">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="bai4_PhuongTrinhBac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai4_PhuongTrinhBac2" />
-      <module name="java-1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="bai5_KiemTraNamNhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai5_KiemTraNamNhuan" />
-      <module name="java-1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="bai6_PhuongTrinhBac1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai6_PhuongTrinhBac1" />
+    <configuration name="bai7_Debug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai7_Debug" />
       <module name="java-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -244,6 +183,16 @@
     </configuration>
     <configuration name="bai9_UngDungTienTe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai9_UngDungTienTe" />
+      <module name="java-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="thuchanh1_TinhChiSoCanNang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thuchanh1_TinhChiSoCanNang" />
+      <module name="java-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="thuchanh2_TinhSoNgayTrongThang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thuchanh2_TinhSoNgayTrongThang" />
       <module name="java-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -286,19 +235,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.bai4_PhuongTrinhBac2" />
-      <item itemvalue="Application.bai5_KiemTraNamNhuan" />
-      <item itemvalue="Application.bai6_PhuongTrinhBac1" />
       <item itemvalue="Application.bai8_ThucHanhToanTu" />
       <item itemvalue="Application.bai9_UngDungTienTe" />
+      <item itemvalue="Application.bai7_Debug" />
+      <item itemvalue="Application.thuchanh1_TinhChiSoCanNang" />
+      <item itemvalue="Application.thuchanh2_TinhSoNgayTrongThang" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.thuchanh2_TinhSoNgayTrongThang" />
+        <item itemvalue="Application.thuchanh1_TinhChiSoCanNang" />
+        <item itemvalue="Application.bai7_Debug" />
         <item itemvalue="Application.bai9_UngDungTienTe" />
         <item itemvalue="Application.bai8_ThucHanhToanTu" />
-        <item itemvalue="Application.bai6_PhuongTrinhBac1" />
-        <item itemvalue="Application.bai5_KiemTraNamNhuan" />
-        <item itemvalue="Application.bai4_PhuongTrinhBac2" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +261,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538529103098</updated>
-      <workItem from="1538529107718" duration="10902000" />
+      <workItem from="1538529107718" duration="16052000" />
     </task>
     <task id="LOCAL-00001" summary="bai2 khai bao su dung bien">
       <created>1538535064077</created>
@@ -342,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538540477952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update bai tập tiền tệ">
+      <created>1538540983444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538540983444</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10902000" />
+    <option name="totallyTimeSpent" value="16052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,18 +318,18 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.33001658" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33001658" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33001658" />
       <window_info anchor="bottom" id="Terminal" weight="0.3283582" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.18003026" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" sideWeight="0.50247526" side_tool="true" weight="0.18003026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,7 +375,8 @@
     <MESSAGE value="bai tập 3 Luyện tập sử dụng biến, kiểu dữ liệu và toán tử" />
     <MESSAGE value="bai tập phuowngt trình bậc 1,2" />
     <MESSAGE value="bai system time" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai system time" />
+    <MESSAGE value="update bai tập tiền tệ" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bai tập tiền tệ" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hsad.coffee">
@@ -474,17 +431,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai3/bai2.java">
+    <entry file="file://$USER_HOME$/Downloads/bai4_PhuongTrinhBac2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="47" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="47" />
+        <state relative-caret-position="88">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai3/bai3.java">
+    <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai5_KiemTraNamNhuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai4_PhuongTrinhBac2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -498,45 +469,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/bai4_PhuongTrinhBac2.java">
+    <entry file="file://$PROJECT_DIR$/src/bai3/bai3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai4_PhuongTrinhBac2.java">
+    <entry file="file://$PROJECT_DIR$/src/bai9_UngDungTienTe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai5_KiemTraNamNhuan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai6_PhuongTrinhBac1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai7_Debug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="220">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -547,10 +490,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bai9_UngDungTienTe.java">
+    <entry file="file://$PROJECT_DIR$/src/bai3/bai2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai6_PhuongTrinhBac1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai7_Debug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thuchanh1_TinhChiSoCanNang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thuchanh2_TinhSoNgayTrongThang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
         </state>
       </provider>
     </entry>
