@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2e961ba-9522-46f6-9b70-9eb2879f0e40" name="Default" comment="update bai tap mang">
-      <change afterPath="$PROJECT_DIR$/src/bai3/thuchanh_mang3_TaoBanDoTroMineSweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baimang1_GopMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baimang2_TimGiaTriNhoNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baimang3_ThemPhanTuVaoTrongMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baimang4_TimPhanTuLonNhanTrongMang2Chieu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thuchanh_1_PhuongThuc_ChuyenDoiNhietDo.java" afterDir="false" />
+    <list default="true" id="e2e961ba-9522-46f6-9b70-9eb2879f0e40" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/baitap14_TimGiaTriNhoNhatTrongPhuongThuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap15_HienThiSoPentagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap16_SoDoiXung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,98 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="baitap13_hienThiCacLoaiHinh.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baitap13_hienThiCacLoaiHinh.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thuchanh_mang1_TimGiaTriTRongMang.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thuchanh_mang1_TimGiaTriTRongMang.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="60" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thuchanh_mang2_TimGiaTriLonNhat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thuchanh_mang2_TimGiaTriLonNhat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baimang1_GopMang.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baimang1_GopMang.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baimang2_TimGiaTriNhoNhat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baimang2_TimGiaTriNhoNhat.java">
+      <file leaf-file-name="baitap14_TimGiaTriNhoNhatTrongPhuongThuc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baitap14_TimGiaTriNhoNhatTrongPhuongThuc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baimang3_ThemPhanTuVaoTrongMang.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baimang3_ThemPhanTuVaoTrongMang.java">
+      <file leaf-file-name="baitap15_HienThiSoPentagonal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/baitap15_HienThiSoPentagonal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thuchanh_mang3_TaoBanDoTroMineSweeper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bai3/thuchanh_mang3_TaoBanDoTroMineSweeper.java">
+      <file leaf-file-name="baitap16_SoDoiXung.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baitap16_SoDoiXung.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baimang4_TimPhanTuLonNhanTrongMang2Chieu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/baimang4_TimPhanTuLonNhanTrongMang2Chieu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-22">
-              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thuchanh_1_PhuongThuc_ChuyenDoiNhietDo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/thuchanh_1_PhuongThuc_ChuyenDoiNhietDo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="28" column="69" lean-forward="true" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thuchanh5_KiemTRaSoNguyenTo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thuchanh5_KiemTRaSoNguyenTo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="88">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -175,6 +103,9 @@
         <option value="$PROJECT_DIR$/src/bai3/thuchanh_mang3_TaoBanDoTroMineSweeper.java" />
         <option value="$PROJECT_DIR$/src/baimang4_TimPhanTuLonNhanTrongMang2Chieu.java" />
         <option value="$PROJECT_DIR$/src/thuchanh_1_PhuongThuc_ChuyenDoiNhietDo.java" />
+        <option value="$PROJECT_DIR$/src/baitap14_TimGiaTriNhoNhatTrongPhuongThuc.java" />
+        <option value="$PROJECT_DIR$/src/baitap15_HienThiSoPentagonal.java" />
+        <option value="$PROJECT_DIR$/src/baitap16_SoDoiXung.java" />
       </list>
     </option>
   </component>
@@ -201,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,13 +153,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SystemTime" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClassAndObject" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -247,22 +178,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.thuchanh_1_PhuongThuc_ChuyenDoiNhietDo">
+  <component name="RunManager" selected="Application.baitap16_SoDoiXung">
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="baimang2_TimGiaTriNhoNhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baimang2_TimGiaTriNhoNhat" />
-      <module name="java-1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="baimang3_ThemPhanTuVaoTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baimang3_ThemPhanTuVaoTrongMang" />
-      <module name="java-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="baimang4_TimPhanTuLonNhanTrongMang2Chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baimang4_TimPhanTuLonNhanTrongMang2Chieu" />
+      <module name="java-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="baitap14_TimGiaTriNhoNhatTrongPhuongThuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap14_TimGiaTriNhoNhatTrongPhuongThuc" />
+      <module name="java-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="baitap16_SoDoiXung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap16_SoDoiXung" />
       <module name="java-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -321,19 +252,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.baimang2_TimGiaTriNhoNhat" />
-      <item itemvalue="Application.baimang3_ThemPhanTuVaoTrongMang" />
       <item itemvalue="Application.thuchanh_mang3_TaoBanDoTroMineSweeper" />
       <item itemvalue="Application.baimang4_TimPhanTuLonNhanTrongMang2Chieu" />
       <item itemvalue="Application.thuchanh_1_PhuongThuc_ChuyenDoiNhietDo" />
+      <item itemvalue="Application.baitap14_TimGiaTriNhoNhatTrongPhuongThuc" />
+      <item itemvalue="Application.baitap16_SoDoiXung" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.baitap16_SoDoiXung" />
+        <item itemvalue="Application.baitap14_TimGiaTriNhoNhatTrongPhuongThuc" />
         <item itemvalue="Application.thuchanh_1_PhuongThuc_ChuyenDoiNhietDo" />
         <item itemvalue="Application.baimang4_TimPhanTuLonNhanTrongMang2Chieu" />
         <item itemvalue="Application.thuchanh_mang3_TaoBanDoTroMineSweeper" />
-        <item itemvalue="Application.baimang3_ThemPhanTuVaoTrongMang" />
-        <item itemvalue="Application.baimang2_TimGiaTriNhoNhat" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +280,9 @@
       <updated>1538529103098</updated>
       <workItem from="1538529107718" duration="26287000" />
       <workItem from="1538615885749" duration="314000" />
-      <workItem from="1538616243405" duration="11628000" />
+      <workItem from="1538616243405" duration="12754000" />
+      <workItem from="1538635523151" duration="55000" />
+      <workItem from="1538702356607" duration="5161000" />
     </task>
     <task id="LOCAL-00001" summary="bai2 khai bao su dung bien">
       <created>1538535064077</created>
@@ -414,14 +347,22 @@
       <option name="project" value="LOCAL" />
       <updated>1538619306876</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bài tập chuyển độ C sang F và gnuowcj lại">
+      <created>1538628171745</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538628171745</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38229000" />
+    <option name="totallyTimeSpent" value="44571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -437,9 +378,9 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283582" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.17776097" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.18154311" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" weight="0.18154311" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -495,17 +436,59 @@
     <MESSAGE value="ứng dụng sổ xố" />
     <MESSAGE value="update bai tập thực hành 3,4" />
     <MESSAGE value="update bai tap mang" />
-    <option name="LAST_COMMIT_MESSAGE" value="update bai tap mang" />
+    <MESSAGE value="bài tập chuyển độ C sang F và gnuowcj lại" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài tập chuyển độ C sang F và gnuowcj lại" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/baimang2_TimGiaTriNhoNhat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baimang3_ThemPhanTuVaoTrongMang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bai3/thuchanh_mang3_TaoBanDoTroMineSweeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baimang4_TimPhanTuLonNhanTrongMang2Chieu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thuchanh5_KiemTRaSoNguyenTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thuchanh_1_PhuongThuc_ChuyenDoiNhietDo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bai7_Debug.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -534,10 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,38 +688,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thuchanh5_KiemTRaSoNguyenTo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baitap13_hienThiCacLoaiHinh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="484">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thuchanh_mang1_TimGiaTriTRongMang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="110">
           <caret line="5" column="60" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thuchanh_mang2_TimGiaTriLonNhat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="748">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -749,21 +717,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baimang4_TimPhanTuLonNhanTrongMang2Chieu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="110">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bai3/thuchanh_mang3_TaoBanDoTroMineSweeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="198">
           <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baimang3_ThemPhanTuVaoTrongMang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
+        <state relative-caret-position="132">
           <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
         </state>
       </provider>
@@ -771,14 +739,14 @@
     <entry file="file://$PROJECT_DIR$/src/baimang1_GopMang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baimang2_TimGiaTriNhoNhat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="176">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -787,8 +755,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thuchanh_1_PhuongThuc_ChuyenDoiNhietDo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="28" column="69" lean-forward="true" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+        <state relative-caret-position="616">
+          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thuchanh5_KiemTRaSoNguyenTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baitap14_TimGiaTriNhoNhatTrongPhuongThuc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baitap15_HienThiSoPentagonal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baitap16_SoDoiXung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
