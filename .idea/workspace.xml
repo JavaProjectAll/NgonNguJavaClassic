@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2e961ba-9522-46f6-9b70-9eb2879f0e40" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baitap_DemSoKyTuTrongChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap_HienThiMatranNhiPhan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,14 +63,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baitap_DemSoKyTuTrongChuoi.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="baitap_DemSoKyTuTrongChuoi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/baitap_DemSoKyTuTrongChuoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#274#275#0" expanded="true" />
                 <element signature="e#306#307#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baitap_HienThiMatranNhiPhan.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/baitap_HienThiMatranNhiPhan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/baitap17_SapXepSo.java" />
         <option value="$PROJECT_DIR$/src/baitap18_KiemTraSoNguyenToNhoHon1000.java" />
         <option value="$PROJECT_DIR$/src/baitap_DemSoKyTuTrongChuoi.java" />
+        <option value="$PROJECT_DIR$/src/baitap_HienThiMatranNhiPhan.java" />
       </list>
     </option>
   </component>
@@ -210,13 +223,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.baitap_DemSoKyTuTrongChuoi">
+  <component name="RunManager" selected="Application.baitap_HienThiMatranNhiPhan">
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="baitap14_TimGiaTriNhoNhatTrongPhuongThuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitap14_TimGiaTriNhoNhatTrongPhuongThuc" />
-      <module name="java-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="baitap16_SoDoiXung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -236,6 +244,11 @@
     </configuration>
     <configuration name="baitap_DemSoKyTuTrongChuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitap_DemSoKyTuTrongChuoi" />
+      <module name="java-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="baitap_HienThiMatranNhiPhan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap_HienThiMatranNhiPhan" />
       <module name="java-1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -278,19 +291,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.baitap14_TimGiaTriNhoNhatTrongPhuongThuc" />
       <item itemvalue="Application.baitap16_SoDoiXung" />
       <item itemvalue="Application.baitap17_SapXepSo" />
       <item itemvalue="Application.baitap18_KiemTraSoNguyenToNhoHon1000" />
       <item itemvalue="Application.baitap_DemSoKyTuTrongChuoi" />
+      <item itemvalue="Application.baitap_HienThiMatranNhiPhan" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.baitap_HienThiMatranNhiPhan" />
         <item itemvalue="Application.baitap_DemSoKyTuTrongChuoi" />
         <item itemvalue="Application.baitap18_KiemTraSoNguyenToNhoHon1000" />
         <item itemvalue="Application.baitap17_SapXepSo" />
         <item itemvalue="Application.baitap16_SoDoiXung" />
-        <item itemvalue="Application.baitap14_TimGiaTriNhoNhatTrongPhuongThuc" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +323,7 @@
       <workItem from="1538635523151" duration="55000" />
       <workItem from="1538702356607" duration="9312000" />
       <workItem from="1538715413157" duration="103000" />
-      <workItem from="1538921471422" duration="239000" />
+      <workItem from="1538921471422" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="bai2 khai bao su dung bien">
       <created>1538535064077</created>
@@ -403,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538711420375</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update bài đếm ký tự chuỗi">
+      <created>1538921784715</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538921784715</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49098000" />
+    <option name="totallyTimeSpent" value="50142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -415,6 +435,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3267974" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -422,11 +443,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33001658" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3137255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3137255" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283582" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.18683812" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.18683812" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" weight="0.18154311" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -436,7 +457,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3267974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -489,16 +509,10 @@
     <MESSAGE value="so sánh chuỗi đối xứng" />
     <MESSAGE value="update sắp xếp số" />
     <MESSAGE value="upda kiểm tra số nguyên tố nhỏ hơn 1000" />
-    <option name="LAST_COMMIT_MESSAGE" value="upda kiểm tra số nguyên tố nhỏ hơn 1000" />
+    <MESSAGE value="update bài đếm ký tự chuỗi" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bài đếm ký tự chuỗi" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/baimang4_TimPhanTuLonNhanTrongMang2Chieu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thuchanh5_KiemTRaSoNguyenTo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -820,11 +834,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/baitap_DemSoKyTuTrongChuoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#274#275#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/baitap_HienThiMatranNhiPhan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
